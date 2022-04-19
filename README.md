@@ -40,5 +40,5 @@ Hey, I'm AnkChais! I'm a 17 year old programmer coming from Australia. I tend to
 
 ### Ways to contact me
 
-<p dir="auto">• Discord:Le Ceaser#8258<br>
+<p dir="auto">• AnkChais#8258<br>
 Have an amazing day.
