@@ -1,5 +1,5 @@
 ### 👋 Hi there
-Hey, I'm AnkChais! I'm a 17 year old programmer coming from Australia. I tend to develop softwares or services in multiple languages. I currently work for myself
+Hey, I'm NotRifter! I'm a 18 year old programmer coming from Australia. I tend to develop softwares or services in multiple languages. I currently work for myself
  
 ### Languages i know
 
