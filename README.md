@@ -33,13 +33,13 @@ Logoto! I'm a 17 year old programmer coming from Australia. I tend to develop so
 </p>
 
 ###### Randoms
-[![Abdulmalik's Github Statistics](https://github-readme-stats.vercel.app/api?username=LeCeaser&)](https://github.com/AbdulmalikAdan/github-readme-stats)\
+[![Abdulmalik's Github Statistics](https://github-readme-stats.vercel.app/api?username=LeCeaser&)](https://github.com/Logotos/github-readme-stats)\
 \
-[![Abdulmalik's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeCeaser&true&layout=compact)](https://github.com/AbdulmalikAdan/github-readme-stats)\
+[![Abdulmalik's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeCeaser&true&layout=compact)](https://github.com/Logotos/github-readme-stats)\
 \
-![](https://komarev.com/ghpvc/?username=LeCeaser&color=blue&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Logoto&color=blue&style=flat-square)
 
 ### Ways to contact me
 
-<p dir="auto">• AnkChais#8258<br>
+<p dir="auto">• logoto#8258<br>
 Have an amazing day.
